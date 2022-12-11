@@ -273,6 +273,26 @@ Typecasting to float
 
 <br>
 
+### 6. feature별 수입 시각화
+
+<div align=center>
+    <img src="https://user-images.githubusercontent.com/90303745/206885709-31b77ebd-9dac-4cc2-b70a-01011cd5eda6.png"
+    width="100%"/>
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/90303745/206885731-09e41e6e-8e5d-41a5-839b-03670a8716ca.png"
+    width="100%"/>
+    <br>
+    <br>
+    <img src="https://user-images.githubusercontent.com/90303745/206885734-d39e02c5-d974-4dc7-874a-cd77d37e575d.png"
+    width="100%"/>
+</div>
+
+<br>
+
+
+
+
 ---
 
 ## 변수 선택
