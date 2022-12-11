@@ -87,6 +87,8 @@
 
 2. Selenium을 이용한 동적 크롤링으로 부모마 수득상금, 경주마 데이터 크롤링
 
+크롤링 코드 라인이 매우 많아 따로 링크로 빼둠 : https://github.com/Inhatc-Bigdata-Project/RacingClassificationModel/blob/magnet9805/crawling.ipynb
+
 ---
 
 ## Data Preprocessing
